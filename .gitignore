@@ -1,0 +1,11 @@
+# Folder environment lokal
+venv/
+__pycache__/
+*.pyc
+
+# Mengabaikan file model berukuran besar agar diunduh via gdown
+*.h5
+
+# Konfigurasi lokal Streamlit & VS Code
+.streamlit/
+.vscode/
